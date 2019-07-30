@@ -51,6 +51,11 @@ disqusShortname = "yourdiscussshortname"
   tag = "tags"
 
 [[params.social]]
+    name = "Email"
+    icon = "fab fa-email"
+    weight = 5
+    url = "mailto:abigailstout33@gmail.com"
+[[params.social]]
     name = "Facebook"
     icon = "fab fa-facebook"
     weight = 3
