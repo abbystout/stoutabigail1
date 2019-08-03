@@ -1,6 +1,6 @@
 +++
-date = "2019-03-20"
-title = "Render LaTeX using KaTeX"
+date = "2019-07-30"
+title = "How I Got Interested in Computer Science"
 description = "Katex support demo"
 katex = "true"
 series = ["Theme", "Hugo"]
