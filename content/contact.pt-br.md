@@ -1,6 +1,12 @@
 +++
-title = "Contato"
+title = "Contact"
 slug = "contact"
 +++
 
-Me siga em @joaoninguem.
+Follow me!
+
+INSTAGRAM     @abbystouttt
+
+FACEBOOK      @abby.stout
+
+TWITTER       @abby.stout
