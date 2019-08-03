@@ -12,17 +12,12 @@
     
     
     <item>
-      <title>Render LaTeX using KaTeX</title>
-      <link>/posts/render-latex-using-katex/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <title>How I Got Interested in Computer Science</title>
+      <link>/posts/how-i-got-interested-in-computer-science/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/render-latex-using-katex/</guid>
-      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
-Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$
-and with math blocks:
-$$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description>
+      <guid>/posts/how-i-got-interested-in-computer-science/</guid>
+      <description>The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal bodeboop. A sing lap should be completed every time you hear this sound. ding Remember to run in a straight line and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark. Get ready!… Start. ding!</description>
     </item>
     
     <item>
