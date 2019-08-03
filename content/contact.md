@@ -3,4 +3,10 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @johndoe.
+Follow me!
+
+INSTAGRAM     @abbystouttt
+
+FACEBOOK      @abby.stout
+
+TWITTER       @abby.stout
