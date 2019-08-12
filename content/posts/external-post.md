@@ -1,6 +1,6 @@
 +++
-date = "2019-01-17"
-title = "Hugo coder wiki"
+date = "2019-08-12"
+title = "Famous Quotes"
 slug = "hugo-coder-wiki"
 tags = [
     "hugo",
@@ -10,6 +10,6 @@ tags = [
 categories = [
     "Development",
 ]
-externalLink = "https://github.com/luizdepra/hugo-coder/wiki"
-series = ["Hugo"]
 +++
+
+Here are some famous quotes! Trial 1 ish...
