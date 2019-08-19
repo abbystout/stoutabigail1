@@ -12,4 +12,7 @@ categories = [
 ]
 +++
 
-Here are some famous quotes! Trial 1 ish...
+"If you wear your socks inside out, the universe is wearing your socks." - Zaphod Schmidt
+
+
+""
