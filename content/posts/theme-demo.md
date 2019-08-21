@@ -1,7 +1,7 @@
 +++
-date = "2017-01-08"
-title = "Theme Demo"
-description = "The post demonstrates features of the coder theme."
+date = "2019-08-19"
+title = "Colorado Trip"
+description = ":)"
 images = ["/images/trial1.jpg", "/images/trial2.jpg"]
 math = "true"
 series = ["Theme", "Hugo"]

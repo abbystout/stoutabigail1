@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
 
 [[params.social]]
     name = "Email"
-    icon = "fab fa-email"
+    icon = "fab fa-envelope"
     weight = 5
     url = "mailto:abigailstout33@gmail.com"
 [[params.social]]

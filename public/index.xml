@@ -6,7 +6,7 @@
     <description>Recent content on Abby Stout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,19 +39,12 @@
     </item>
     
     <item>
-      <title>Theme Demo</title>
-      <link>/posts/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Photos of Happy Times</title>
+      <link>/posts/photos-of-happy-times/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>/posts/photos-of-happy-times/</guid>
+      <description></description>
     </item>
     
     <item>
