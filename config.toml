@@ -34,7 +34,7 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     # Use inverted colors
-    inverted = false
+    inverted = true
 
     # Series see also post count
     maxSeeAlsoItems = 5
