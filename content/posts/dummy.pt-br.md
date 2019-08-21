@@ -1,9 +1,9 @@
 +++ 
-date = "2018-12-31"
-title = "Dummy"
-slug = "dummy" 
-tags = ["hugo", "i18n"]
-categories = ["blog"]
+date = "2019-08-31"
+title = "Education"
+slug = "education" 
 +++
 
-Nada para ver aqui!
+My school!
+
+{{< figure src="/images/school.jpg" caption="Mount Saint Mary Academy" >}}
