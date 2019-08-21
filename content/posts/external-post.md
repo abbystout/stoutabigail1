@@ -1,6 +1,6 @@
 +++
 date = "2019-08-12"
-title = "Famous Quotes"
+title = "Favorite Quotes"
 slug = "hugo-coder-wiki"
 tags = [
     "hugo",
