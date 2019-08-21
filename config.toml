@@ -34,7 +34,7 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     # Use inverted colors
-    inverted = true
+    inverted = false
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
 
 [[params.social]]
     name = "Email"
-    icon = "fab fa-envelope"
+    icon = "fa-envelope"
     weight = 5
     url = "mailto:abigailstout33@gmail.com"
 [[params.social]]
