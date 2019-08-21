@@ -4,7 +4,6 @@ title = "Colorado Trip"
 description = ":)"
 images = ["/images/trial1.jpg", "/images/trial2.jpg"]
 math = "true"
-series = ["Theme", "Hugo"]
 +++
 
 
