@@ -8,6 +8,7 @@ series = ["Theme", "Hugo"]
 +++
 
 
+{{< figure src="/images/trial3.jpg" caption="Day at Breckenridge, Colorado" >}}
 
 {{< figure src="/images/trial2.jpg" caption="Rockies game at Coors Stadium, Colorado" >}}
 
