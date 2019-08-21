@@ -3,4 +3,6 @@ title = "About Me"
 slug = "about"
 +++
 
-Here's a little bit about me...
+This is me!
+
+{{< figure src="/images/trial4.jpg">}}
