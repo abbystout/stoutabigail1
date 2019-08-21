@@ -21,5 +21,10 @@ categories = [
 "Either you die a hero or you live enough to see yourself become a villain" - Harvey Dent
 
 
-"You too, be patient strengthen your hearts for the coming of teh Lord is near." James 5:8
+"You too, be patient strengthen your hearts for the coming of the Lord is near." James 5:8
 
+
+"Bravery is intangible and therefore no weapon ever designed can replace it." - General Omar Bradley
+
+
+"Make life one long weekend" - Tommy Bahama
