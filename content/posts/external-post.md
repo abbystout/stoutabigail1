@@ -20,3 +20,8 @@ slug = "favorite-quotes"
 
 
 "Make life one long weekend" - Tommy Bahama
+
+
+"The definition of leadership is to know the way, to show the way, and to go the way." - Joel Hilchey
+
+
