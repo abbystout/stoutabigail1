@@ -28,3 +28,5 @@ slug = "favorite-quotes"
 "Love is that condition in which the happiness of another person is essential to your own" - Robert A. Heinlein
 
 "Kind words can be short and easy to speak, but their echoes are truly endless." - Mother Teresa
+
+"Hard work beats talent when talent fails to work hard." - Kevin Durant
