@@ -14,3 +14,4 @@ So here's a little bit about them!
 {{< figure src="/images/IMG_4444.jpg" caption="This is Danielle!" >}}
 
 {{< figure src="/images/IMG_2876.jpg" caption="This is Spero and Caroline!" >}}
+
