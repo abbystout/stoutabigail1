@@ -14,5 +14,5 @@ So here's a little bit about them!
 
 {{< figure src="/images/IMG_1762.JPG" caption="This is Julia, Spero, Sarah, Kendall, and Caroline!" >}}
 
-{{< figure src="/images/IMG_1755.JPG" caption="This is Mia and Hennessy!" >}}
+{{< figure src="/images/IMG_1755.jpg" caption="This is Mia and Hennessy!" >}}
 
