@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Abby Stout's personal website"
     keywords = "blog,developer,personal"
     info = "Aspiring Programmer and Data Scientist"
-    avatarurl = "images/avatar copy.jpg"
+    avatarurl = "images/avatar.jpg"
     footercontent = "Originally based in New Jersey."
 
     dateformat = "January 2, 2006"
