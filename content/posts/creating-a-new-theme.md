@@ -18,3 +18,7 @@ Live passionately. :)
 
 
 {{< figure src="/images/IMG_2080.jpg" caption="" >}}
+
+
+
+{{< figure src="/images/smiley fries.jpg" caption="" >}}
