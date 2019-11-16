@@ -1,14 +1,20 @@
 +++ 
 date = "2019-09-24"
-title = "My Art"
-slug = "my-art" 
+title = "My Inspiration"
+slug = "my-inspiration" 
 +++
 
-Here are some things I've been working on for awhile now and may start selling!
+Here are some things have inspired me creatively and emotionally.
+Live passionately. :)
 
 
 
-{{< figure src="/images/IMG_1111.jpg" caption="" >}}
+{{< figure src="/images/IMG_2209.jpg" caption="" >}}
 
 
-{{< figure src="/images/IMG_1235.jpg" caption="" >}}
+{{< figure src="/images/AVNATIONAUSTIN.jpg" caption="" >}}
+
+
+{{< figure src="/images/AUSTINXXXXX.jpg" caption="" >}}
+
+
