@@ -30,3 +30,5 @@ slug = "favorite-quotes"
 "Kind words can be short and easy to speak, but their echoes are truly endless." - Mother Teresa
 
 "Hard work beats talent when talent fails to work hard." - Kevin Durant
+
+"Your limitation - just your imagination." - THE Nolan Orr
