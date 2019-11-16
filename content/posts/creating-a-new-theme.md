@@ -8,7 +8,6 @@ Here are some things have inspired me creatively and emotionally.
 Live passionately. :)
 
 
-
 {{< figure src="/images/IMG_2209.jpg" caption="" >}}
 
 
