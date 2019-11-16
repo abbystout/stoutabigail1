@@ -21,4 +21,4 @@ Live passionately. :)
 
 
 
-{{< figure src="/images/smiley fries.jpg" caption="" >}}
+{{< figure src="/images/smily fries.jpg" caption="" >}}
