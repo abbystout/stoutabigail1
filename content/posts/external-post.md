@@ -31,4 +31,4 @@ slug = "favorite-quotes"
 
 "Hard work beats talent when talent fails to work hard." - Kevin Durant
 
-"Your limitation - just your imagination." - THE Nolan Orr
+"Your limitation - just your imagination." - Nolan Orr
