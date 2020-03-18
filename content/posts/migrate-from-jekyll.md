@@ -19,3 +19,5 @@ So here's a few of them!
 {{< figure src="/images/myclassmatesxxx.JPG" caption="This is my entire grade" >}}
 
 {{< figure src="/images/KAIBROS.JPG" caption="These are my Kaisisters <3" >}}
+
+{{< figure src="/images/nolan.JPG" caption="This is Nolan <3" >}}
